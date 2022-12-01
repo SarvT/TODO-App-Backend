@@ -37,8 +37,8 @@ Refer the API chart above for appropriate usage (Method, Endpoint, Description).
 
 ## Schema of todo
 {
-    description: string
-    status: string
+    description: string,
+    status: string,
     id: number
 }
 
