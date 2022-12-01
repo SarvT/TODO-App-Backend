@@ -7,10 +7,18 @@ Create a TODO app backend with below APIs
 
 ## API chart
 Method       Endpoint         Description
-POST        /api/todo   Create a new todo. It should return todo-id in response. Default status for todo is “pending”.
+POST        /api/todo           Create a new todo. It should return todo-id in response. Default status for todo is “pending”.
+
+
 GET         /api/todos   Get all todos, List of todos
+
+
 GET         /api/todo/{todoId} Get todo by todoId
+
+
 POST        /api/todo/{todoId}/done        Mark todo status as done
+
+
 DELETE      /api/todo/{todoId}/delete       Delete todo by id
 
 ### Follow below steps to run the API.
