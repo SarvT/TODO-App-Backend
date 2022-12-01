@@ -63,3 +63,6 @@ Then fire the below link in your browser.
 ````
 http://localhost:8080
 ````
+
+## For using the POST, DELETE methods
+For using the POST, DELETE methods you will have use API client such as "POSTMAN" or any other.
